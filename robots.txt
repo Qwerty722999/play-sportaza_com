@@ -1,0 +1,3 @@
+User-agent: *
+Allow: *
+Sitemap: https://play-sportaza.com/sitemap_index.xml
